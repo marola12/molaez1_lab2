@@ -1,3 +1,4 @@
+# molaez1_lab2
 # Instructions for completing Lab 2 
 ## Understanding the HTML5 Skeleton Structure
 
@@ -24,4 +25,3 @@ All your pages and sites should start from the basic HTML5 Skeleton Structure. I
   
 
 
-"# molaez1_lab2" 
