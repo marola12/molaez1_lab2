@@ -20,7 +20,6 @@ All your pages and sites should start from the basic HTML5 Skeleton Structure. I
     * Repo Link
     * Live Link
     * Image of Validation Screen Capture
-    * Image of File Comparison
 
   
 
