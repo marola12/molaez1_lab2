@@ -1,5 +1,5 @@
 # molaez1_lab2
-# Instructions for completing Lab 2 
+# Instructions for Completing Lab 2 
 ## Understanding the HTML5 Skeleton Structure
 
 **Objective:**
